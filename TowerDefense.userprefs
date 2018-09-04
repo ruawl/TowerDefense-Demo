@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Jogo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Jogo.cs" Line="59" Column="36" />
+      <File FileName="Assets\Scripts\GeradorDeInimigos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Jogador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NumeroDeTorres.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MostradorDeVida.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\Torre.cs" Line="11" Column="48" />
+      <File FileName="Assets\Scripts\Missil.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
